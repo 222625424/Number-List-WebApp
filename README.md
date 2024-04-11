@@ -1,1 +1,1 @@
-Use a GlassFish Server torun it
+Use a GlassFish Server to run it
